@@ -91,11 +91,14 @@
 	</dependencies>
 	
 	<distributionManagement>
-	    <releasesrepository>
+       
+	 
+      <!--<releasesrepository>-->
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://3.144.245.196:8881/repository/ebay-java-app-releases/</url>
-	    </releasesrepository>
+          <!-- </releasesrepository>-->
+
 		
 	     <snapshotRepository>
 	      <id>nexus</id>
