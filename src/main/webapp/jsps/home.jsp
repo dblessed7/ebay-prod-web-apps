@@ -21,10 +21,10 @@
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
+		FunTech Technology
+		 Ontario, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		favor.adesina@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
