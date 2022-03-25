@@ -22,8 +22,8 @@
 	</span>
 	<span style="font-weight: bold;">
 		FunTech Technology
-		 Ontario, Canada
-		+1 437 215 2483,
+		 Arlington, Texas, USA
+		+1 7734176041
 		favor.adesina@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
