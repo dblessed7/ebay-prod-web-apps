@@ -11,7 +11,6 @@
 <body>
 <h1 align="center">FunTechTechnologies</h1>
 <h2 align="center"> Welcome to FunTech Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
 	FunTech Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY AND HE IS THE LORD ALL THE TIMES!</h2>
