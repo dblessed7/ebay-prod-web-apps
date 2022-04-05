@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.223.43.249:8081/repository/Pay-Pal-Dev-release/</url>
+	      <url>http://18.221.138.79:8081/repository/td-qa-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.223.43.249:8081/repository/Pay-Pal-Dev-Snapshot/</url>
+	      <url>http://18.221.138.79:8081/repository/td-qa-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
